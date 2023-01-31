@@ -1,0 +1,7 @@
+git clone 'url' // Clonas un proyecto existente
+
+git add .	//Le dices a Git que todos los cambios serán agregados
+git commit -m 'message'	//Agregas los datos al historial con un mensaje
+git push -u origin 'nombre de la rama actual'	//Subo los cambios al repositorio remoto
+
+git pull	//Bajar cambios a tu rama actual 

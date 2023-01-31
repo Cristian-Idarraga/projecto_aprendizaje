@@ -1,0 +1,4 @@
+ls // listar
+
+mkdir 'nombre de carpeta'	//crea una carpeta
+cd 'nombre de carpeta'	//ingresa a la carpeta
